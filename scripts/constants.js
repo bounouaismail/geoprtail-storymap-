@@ -1,11 +1,11 @@
 var constants = {
 	// Storymapap Info
-  _mapTitle: 'Storymap Title',
+  _mapTitle: 'Géoportail Des Parcs Nationaux',
   _mapSubtitle: 'Storymap Subtitle',
-  _mapLogo: 'Storymap Logo',
+  _mapLogo: 'georeserve.png',
   // Credits
-	_authorName: 'Author Name',
-	_authorURL: 'Author Email or Website',
+	_authorName: 'BOUNOUA ISMAIL / BOURRIZ MOHAMED',
+	_authorURL: 'Bounouaismail@iav.ac.ma / Bourrizmohamed@iav.ac.ma',
   _codeCredit: 'Code Credit',
 	_githubRepo: 'Author GitHub Repo Link',
 	// Map Settings
